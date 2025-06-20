@@ -28,7 +28,7 @@ def generative():
               )
 
 
-        print("1: GMB")
+        print("1: Monte Carlo")
         print("2: Lstm")
         print("3: random forest")
         print("4: exit")
