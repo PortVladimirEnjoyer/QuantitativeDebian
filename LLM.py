@@ -1,3 +1,6 @@
+#disclaimer(note) : ai was used for this code 
+
+
 import ollama
 from threading import Thread
 import sys
