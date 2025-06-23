@@ -6,6 +6,7 @@ A custom OS based on Debian with a minimalist XFCE environment.
 
 ![QuantOS Screenshot](https://github.com/justworking505/QuantitativeDebian/blob/main/desktoppng)
 
+![QuantOS Screenshot](https://github.com/justworking505/QuantitativeDebian/blob/main/screenshot1)
 
 
 ## Description
